@@ -19,12 +19,12 @@ En este proyecto, creé un tablero como parte del curso de Procesamiento de Dato
 7-¿Cuál es el promedio de edad y ingresos laborales de  la población inmigrante en comparación con los  argentinos?																		
 
 																	
-## Empleo																		
+## Empleo																		aga clic sobre la pregunta y lo llevara a la hoja donde se encuentran las
 8-¿Cuál es el porcentaje de la población inactiva de la población en general?																							
 
 ## Ingresos
 9-¿Cuál es el ingreso laboral máximo de las mujeres solteras jefas en el hogar en los que el padre no vive en el hogar? ¿Y en el caso de los hombres?							
 
 
-[Haga clic sobre la pregunta y lo llevara a la hoja donde se encuentran las formulas y  funciones realizadas para responder las preguntas.
+[Formulas y  funciones realizadas para responder las preguntas.
 ](https://github.com/MartinCaceresmc/dashboardexcel/blob/main/Readme.pdf)
