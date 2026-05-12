@@ -27,4 +27,4 @@ En este proyecto, creé un tablero como parte del curso de Procesamiento de Dato
 
 
 [Haga clic sobre la pregunta y lo llevara a la hoja donde se encuentran las formulas y  funciones realizadas para responder las preguntas.
-](url:https://github.com/MartinCaceresmc/dashboardexcel/blob/main/Readme.pdf)
+](https://github.com/MartinCaceresmc/dashboardexcel/blob/main/Readme.pdf)
