@@ -26,5 +26,4 @@ En este proyecto, creé un tablero como parte del curso de Procesamiento de Dato
 9-¿Cuál es el ingreso laboral máximo de las mujeres solteras jefas en el hogar en los que el padre no vive en el hogar? ¿Y en el caso de los hombres?							
 
 
-[Formulas y  funciones realizadas para responder las preguntas.
-](https://github.com/MartinCaceresmc/dashboardexcel/blob/main/Readme.pdf)
+[Ver documentación completa del proyecto y análisis en PDF.](https://github.com/MartinCaceresmc/dashboardexcel/blob/main/Readme.pdf)
