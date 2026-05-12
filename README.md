@@ -1,5 +1,6 @@
 # dashboardexcel
 En este proyecto, creé un tablero como parte del curso de Procesamiento de Datos en CoderHouse, usando Excel.
+<img width="1280" height="430" alt="DASHBOADR" src="https://github.com/user-attachments/assets/89e82c97-4c03-4c27-a1f5-71b426db0ea4" />
 
 					
 Las preguntas planteadas son las siguientes:											
